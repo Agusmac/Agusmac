@@ -13,6 +13,20 @@
 * MongoDB
 * AdobeXD
 
+
+<br/>
+
+- I’m looking to collaborate on Projects that help me grow as a professional Developer
+
+- 📫 How to reach me ...
+* Email: agusmac40@gmail.com
+* Phone: +54-341-352-4672
+
+<!---
+Agusmac/Agusmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=128&color=7952b3" style="padding-right:10px;" />
@@ -29,17 +43,3 @@
 
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" style="padding-right:10px;" />
-
-
-<br/>
-
-- I’m looking to collaborate on Projects that help me grow as a professional Developer
-
-- 📫 How to reach me ...
-* Email: agusmac40@gmail.com
-* Phone: +54-341-352-4672
-
-<!---
-Agusmac/Agusmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

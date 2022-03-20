@@ -16,12 +16,16 @@
 <img align="left" alt="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/express-original.svg?size=56&color=ffffff" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" style="padding-right:10px;" />
 
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffff00" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="26px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/express-original.svg?size=56&color=ffffff" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/mongodb-original-wordmark.svg?size=128&color=ffff00" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
+
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" style="padding-right:10px;" />
 
 
 <br/>

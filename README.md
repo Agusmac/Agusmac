@@ -6,11 +6,12 @@
 
 * HTML/CSS
 * JavaScript 
-* Node & Express
+* Node & Express with JWT security
 * React.js
 * Bootstrap/MaterialUi
 * SQL(MySql)
 * MongoDB
+* AdobeXD
 
 
 

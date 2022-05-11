@@ -8,6 +8,7 @@
 * JavaScript 
 * Node & Express with JWT security
 * React.js
+* Next
 * Bootstrap/MaterialUi
 * SQL(MySql)
 * MongoDB

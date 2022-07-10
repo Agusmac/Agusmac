@@ -9,7 +9,7 @@
 * Node & Express with JWT security
 * React.js
 * Next
-* Bootstrap/MaterialUi
+* Bootstrap/MaterialUi/Tailwind
 * SQL(MySql)
 * MongoDB
 * AdobeXD

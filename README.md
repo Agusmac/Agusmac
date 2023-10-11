@@ -1,8 +1,10 @@
 - Hi 👋 I’m Agustin
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and the environment surrounding it
+- 👀 I’m into creative Frontend Development
+- 🌱 Currently learning THREE js(web gl 3D), and the environment surrounding it
+
+My preferred stack is Next js + Tailwind
  
--So far ive learned:
+-So far ive worked with:
 
 * HTML/CSS
 * JavaScript 
@@ -15,9 +17,7 @@
 * AdobeXD
 
 
-
-
-- I’m looking to collaborate on Projects that help me grow as a professional Developer
+- Always looking to collaborate on exciting Projects 
 
 - 📫 How to reach me ...
 * Email: agusmac40@gmail.com

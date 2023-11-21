@@ -10,11 +10,12 @@ My preferred stack is Next js + Tailwind
 * JavaScript 
 * Node & Express with JWT security
 * React.js
-* Next
+* Next js
+* THREE JS
 * Bootstrap/MaterialUi/Tailwind
 * SQL(MySql)
 * MongoDB
-* AdobeXD
+* AdobeXD-Figma
 
 
 - Always looking to collaborate on exciting Projects 

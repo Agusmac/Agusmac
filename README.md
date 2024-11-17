@@ -30,7 +30,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/react-original.svg?size=128&color=ffff00" style="padding-right:10px;" />
-<img align="left" alt="CSS3" width="40px" src="https://icongr.am/material/material-ui.svg?size=128&color=0080ff" style="padding-right:10px;" />
 
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="40px" src="https://icongr.am/devicon/github-original.svg?size=128&color=ffffff" style="padding-right:10px;" />

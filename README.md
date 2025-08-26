@@ -1,23 +1,17 @@
 - Hi 👋 I’m Agus
 - Creative Frontend Dev
-- 🌱 Currently learning THREE js(web gl 3D), and the environment surrounding it
 
-My stack
+Tech stack
 
-* HTML/CSS/JS
-* React.js
-* Next js ⭐
-* Tailwind ⭐
-* GSAP ⭐
-* React Three Fiber ⭐
-* THREE JS
+* Next js 
+* Tailwind 
+* GSAP 
+* THREE JS (R3F)
 
 
-- Always looking to collaborate on exciting Projects 
+Email
+- agusmac40@gmail.com
 
-- 📫 How to reach me ...
-* Email: agusmac40@gmail.com
-* Phone: +54-341-352-4672
 
 <!---
 Agusmac/Agusmac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
